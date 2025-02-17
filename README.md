@@ -6,7 +6,11 @@ Para a execução deste projeto é necessários baixar algumas dependências sen
 
 ```pip install deepface```
 
-Caso deseje você pode especificar na linha 26 o caminho de um outro video que queria usar se não você pode usar o seguinte comando na pasta do projeto:
+Também é necessário baixar o modelo Heavy do poseLandmarker da Google ele se encontra na seção Models:
+
+https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker
+
+Então antes de iniciar você deve na linha 26 modificar o caminho do seu video e .. Pronto só utilizar este comando :)
 
 ```python .\face-detection.py```
 
