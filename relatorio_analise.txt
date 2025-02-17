@@ -1,0 +1,11 @@
+Total Frames Analisados: 3326
+Número de Anomalias: 505
+Movimento dos Braços: 14
+Emoções Detectadas:
+  neutral: 754
+  sad: 354
+  fear: 254
+  angry: 91
+  happy: 532
+  disgust: 3
+  surprise: 100
